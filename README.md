@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![IvanSibirtsev GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSibirtsev&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=IvanSibirtsev&langs_count=12&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=material-palenight&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)
+[![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=IvanSibirtsev&langs_count=10&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=material-palenight&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)
